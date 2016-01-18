@@ -1,5 +1,5 @@
  
-ISR Higgs lineshape calculator - simplified example
+ISR Higgs lineshape calculator
 
 
 
@@ -29,7 +29,9 @@ ul. Warszawska 24,
 Brief description:
 
 Program calculates ISR infuence for the Higgs lineshape and its broadening by beam energy spread.
-
+Description can be found in:
+[1] S. Jadach, R.A. Kycia Software for calculations of the Higgs boson lineshape in future lepton colliders; arXiv:1601.02854 [hep-ph]
+[2] S. Jadach, R.A. Kycia Lineshape of the Higgs boson in future lepton colliders; arXiv:1509.02406 [hep-ph]
 
 Warinigs:
 1. The programs were written by means of high standards, however, authors are not responsible for any damages that result from the use of these program. Use them at your own risk.
