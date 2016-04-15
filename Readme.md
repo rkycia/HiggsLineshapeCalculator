@@ -33,7 +33,7 @@ Description can be found in:
 
 [1] S. Jadach, R.A. Kycia Software for calculations of the Higgs boson lineshape in future lepton colliders; arXiv:1601.02854 [hep-ph]
 
-[2] S. Jadach, R.A. Kycia Lineshape of the Higgs boson in future lepton colliders; arXiv:1509.02406 [hep-ph]
+[2] S. Jadach, R.A. Kycia Lineshape of the Higgs boson in future lepton colliders; Physics Letters B, Volume 755, 10 April 2016, Pages 58–63; doi:10.1016/j.physletb.2016.01.065
 
 
 Warinigs:
@@ -54,18 +54,18 @@ Dependence:
 - OpenMPI - for MPI programs
 
 Content:
-./Simple  - contains simplified version of program for educational purposes;
-./Full    - contains full version of program that creates results published in  arXiv:1509.02406 [hep-ph];
-./MPI     - contains MPI version of program from ./Full directory;
-./MPI/sigEPlots - contains program that prepares plots of the cross section dependence on beam energy spread;
-./MPI/Basic  - contains program that prepare allother plots of ./Full version of the program;
+- ./Simple  - contains simplified version of program for educational purposes;
+- ./Full    - contains full version of program that creates results published in  arXiv:1509.02406 [hep-ph];
+- ./MPI     - contains MPI version of program from ./Full directory;
+- ./MPI/sigEPlots - contains program that prepares plots of the cross section dependence on beam energy spread;
+- ./MPI/Basic  - contains program that prepare allother plots of ./Full version of the program;
 
 
 There are following options (type in terminal to see the output):
 
- - make run - compile and run program. 
- - make Generate-doc - generates documentation from the code in html and TeX formats using Doxygen.
- - make clean - clean the directory from compilation and output files.
+- make run - compile and run program. 
+- make Generate-doc - generates documentation from the code in html and TeX formats using Doxygen.
+- make clean - clean the directory from compilation and output files.
 
 
 License:
