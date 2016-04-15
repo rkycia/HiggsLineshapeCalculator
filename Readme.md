@@ -29,7 +29,7 @@ ul. Warszawska 24,
 Brief description:
 
 Program calculates ISR infuence for the Higgs lineshape and its broadening by beam energy spread.
-Description can be found in:
+Description can be found in(software description [1]; theory [2]):
 
 [1] S. Jadach, R.A. Kycia Software for calculations of the Higgs boson lineshape in future lepton colliders; arXiv:1601.02854 [hep-ph]
 
